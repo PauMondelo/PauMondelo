@@ -1,4 +1,13 @@
-### Hi there 👋
+### ¡Hola! 👋
+
+Te cuento un poco más sobre mi:
+- Diseñadora UX/UI
+- Web devoloper
+- Publicista
+
+
+
+
 
 <!--
 **PauMondelo/PauMondelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
